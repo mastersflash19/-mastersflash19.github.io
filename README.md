@@ -93,25 +93,5 @@ Fashion application showcasing Java development and GUI design.
 
 ---
 
-## 🚀 Getting Started (For Developers)
 
-### Prerequisites
-- Ruby (>= 2.5.0)
-- Jekyll
-- Bundler
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/mastersflash19/mastersflash19.github.io.git
-cd mastersflash19.github.io
-
-# Install dependencies
-bundle install
-
-# Run locally
-bundle exec jekyll serve
-
-# Open in browser
-# http://localhost:4000
