@@ -93,8 +93,8 @@ Interactive counter application built with **Elm** functional programming langua
 
 I was awarded a Certificate of Appreciation for my dedication and contribution as a tutor at Rhodes University.
 
-<a href="https://github.com/mastersflash19/mastersflash19/blob/main/assets/certificates/certificate-tutor-2024.png">
-  <img src="https://raw.githubusercontent.com/mastersflash19/mastersflash19/main/assets/certificates/certificate-tutor-2024.png" alt="Certificate of Appreciation" width="500"/>
+<a href="https://github.com/mastersflash19/mastersflash19/blob/main/assets/certificates/certificate.png">
+  <img src="https://raw.githubusercontent.com/mastersflash19/mastersflash19/main/assets/certificates/certificate.png" alt="Certificate of Appreciation" width="500"/>
 </a>
 
 **Recognition:** Rhodes University Tutor Certificate of Appreciation  
