@@ -91,14 +91,9 @@ Interactive counter application built with **Elm** functional programming langua
 ---
 ## 🏆 Certificate of Appreciation
 
-I was awarded a Certificate of Appreciation for my dedication and contribution as a tutor at Rhodes University.
-
-<a href="https://github.com/mastersflash19/mastersflash19/blob/main/assets/certificates/certificate.png">
-  <img src="https://raw.githubusercontent.com/mastersflash19/mastersflash19/main/assets/certificates/certificate.png" alt="Certificate of Appreciation" width="500"/>
+<a href="https://github.com/mastersflash19/-mastersflash19.github.io/blob/master/assets/certificate.png">
+  <img src="https://raw.githubusercontent.com/mastersflash19/-mastersflash19.github.io/master/assets/certificate.png" alt="Certificate of Appreciation" width="500"/>
 </a>
-
-**Recognition:** Rhodes University Tutor Certificate of Appreciation  
-**Signatories:** Prof. George Wells (Chairperson, Head of Department)
 ## 📊 GitHub Stats
 
 ![Tshephang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastersflash19&show_icons=true&theme=radical)
