@@ -94,6 +94,7 @@ Interactive counter application built with **Elm** functional programming langua
 <a href="https://github.com/mastersflash19/-mastersflash19.github.io/blob/master/assets/certificate.png">
   <img src="https://raw.githubusercontent.com/mastersflash19/-mastersflash19.github.io/master/assets/certificate.png" alt="Certificate of Appreciation" width="500"/>
 </a>
+
 ## 📊 GitHub Stats
 
 ![Tshephang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastersflash19&show_icons=true&theme=radical)
