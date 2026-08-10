@@ -18,47 +18,60 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 I'm **Tshephang Makgaloa**, a Computer Science student based in South Africa with a passion for:
 - ☕ **Java Development**
 - 🎮 **Game Development**
-- 🖥️ **GUI Applications**
-- 📱 **Software Engineering**
+- 🌐 **Web Development**
+- 📱 **Full-Stack Applications**
 
 ---
 
 ## 🛠️ Technologies Used
 
-### Languages
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- Elm
+### Languages & Frameworks
+- **Java** - Swing, AWT (Flappy Bird 2.0)
+- **Next.js 14** - React Framework (FashionApp)
+- **TypeScript** - Type-safe JavaScript (FashionApp)
+- **Tailwind CSS** - Utility-first CSS (FashionApp)
+- **Elm** - Functional Programming (ELM Counter)
+- **HTML5 & CSS3** - Web Fundamentals
+- **JavaScript (ES6+)** - Modern JavaScript
 
-### Frameworks & Tools
-- Java Swing
-- Jekyll
+### Tools & Platforms
 - Git & GitHub
-- Minimal Mistakes Theme
+- Jekyll - Static Site Generator
+- Vercel - Deployment
+- npm / yarn - Package Management
 
-### Concepts
+### Core Concepts
 - Object-Oriented Programming
 - Event-Driven Programming
 - GUI Development
-- Data Structures
+- Functional Programming
+- Responsive Web Design
+- API Development
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🎮 Flappy Bird 2.0
-Classic Flappy Bird game built with **Java Swing**. Developed with Team Apollo.
+Classic Flappy Bird game built with **Java Swing** and **AWT**. Features include a medal system, keyboard controls, and background music.
 
 [View Project](https://github.com/mastersflash19/flappy-bird-2.0)
 
-**Technologies:** Java, Swing, AWT
+**Technologies:** Java, Swing, AWT, javax.sound
+
+---
+
+### 👗 FashionApp
+AI-powered fashion web application built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. Features include wardrobe management, AI outfit planning, and smart shopping.
+
+[View Project](https://github.com/mastersflash19/fashionapp)
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Lucide Icons
 
 ---
 
 ### 🔢 ELM Counter
-Interactive counter application built with **Elm** functional programming language.
+Interactive counter application built with **Elm** functional programming language demonstrating The Elm Architecture (TEA).
 
 [View Project](https://github.com/mastersflash19/elm-counter)
 
@@ -66,32 +79,45 @@ Interactive counter application built with **Elm** functional programming langua
 
 ---
 
-### 📱 FashionApp
-Fashion application showcasing Java development and GUI design.
-
-[View Project](https://github.com/mastersflash19/fashionapp)
-
-**Technologies:** Java, Swing
-
----
-
 ## 🎯 Skills
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Java, JavaScript, HTML, CSS, Elm |
-| **Frameworks** | Swing, Jekyll |
-| **Tools** | Git, GitHub |
-| **Core Concepts** | OOP, Event-Driven Programming, GUI Development |
+| **Languages** | Java, TypeScript, JavaScript, Elm, HTML, CSS |
+| **Frameworks** | Next.js, React, Swing, Jekyll, Tailwind CSS |
+| **Tools** | Git, GitHub, Vercel, npm, yarn |
+| **Core Concepts** | OOP, Event-Driven Programming, Functional Programming, GUI Development, Responsive Design |
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Tshephang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastersflash19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastersflash19&layout=compact&theme=radical)
+
+> *Note: GitHub Stats may be temporarily unavailable. Please refresh or check back later.*
 
 ---
 
+## 🚀 Getting Started (For Developers)
 
+### Prerequisites
+- Ruby (>= 2.5.0) for Jekyll
+- Node.js (>= 18.17) for Next.js projects
+- Elm (>= 0.19.1) for Elm projects
+- Git
 
+### Local Development
+
+```bash
+# Clone the portfolio repository
+git clone https://github.com/mastersflash19/mastersflash19.github.io.git
+cd mastersflash19.github.io
+
+# Install dependencies
+bundle install
+
+# Run locally
+bundle exec jekyll serve
+
+# Open in browser
+# http://localhost:4000
