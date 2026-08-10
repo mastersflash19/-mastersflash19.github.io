@@ -34,6 +34,15 @@ I'm **Tshephang Makgaloa**, a Computer Science student based in South Africa wit
 - Contribute to open source
 - Gain experience in software development
 
+## 🏆 Achievements & Recognition
+
+### Rhodes University Tutor Certificate of Appreciation
+
+I was awarded a Certificate of Appreciation in recognition of my dedication, commitment, and valuable contribution as a tutor for Rhodes University.
+
+![Certificate of Appreciation](assets/certificate.png)
+
+
 ## 📫 Let's Connect
 I'm always open to collaboration and interesting conversations!
 
