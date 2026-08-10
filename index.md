@@ -29,6 +29,11 @@ Fashion application showcasing Java development skills and GUI design.
 - **Languages:** Java, JavaScript, HTML, CSS, Elm
 - **Frameworks:** Swing
 - **Tools:** Git, GitHub
+## 🏆 Recent Achievement
+
+I was awarded a **Certificate of Appreciation** for my dedication and contribution as a tutor at Rhodes University.
+
+![Certificate of Appreciation](assets/certificate.png)
 
 ### 📫 Connect With Me
 - [GitHub](https://github.com/mastersflash19)
