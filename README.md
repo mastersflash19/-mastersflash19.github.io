@@ -79,8 +79,9 @@ Interactive counter application built with **Elm** functional programming langua
 
 ---
 ### CRUD MANIPULATIONS
-[View Project](https://github.com/mastersflash19/Basotho.git)
 A comprehensive command-line interface (CLI) application built with Python and PyMongo to manage a student record database hosted on MongoDB Atlas. This system supports robust CRUD operations, complex array manipulation, logical/comparison queries, and custom aggregation pipelines.
+[View Project](https://github.com/mastersflash19/Basotho.git)
+
 
 ## 🎯 Skills
 
