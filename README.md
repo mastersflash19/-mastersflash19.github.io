@@ -78,6 +78,8 @@ Interactive counter application built with **Elm** functional programming langua
 **Technologies:** Elm, HTML, CSS
 
 ---
+### CRUD MANIPULATIONS
+[View Project](https://github.com/mastersflash19/Basotho.git)
 
 ## 🎯 Skills
 
@@ -89,6 +91,7 @@ Interactive counter application built with **Elm** functional programming langua
 | **Core Concepts** | OOP, Event-Driven Programming, Functional Programming, GUI Development, Responsive Design |
 
 ---
+
 ## 🏆 Certificate of Appreciation
 
 <a href="https://github.com/mastersflash19/-mastersflash19.github.io/blob/master/assets/certificate.png">
